@@ -49,5 +49,3 @@ def get_shop(namepublisher):
 if __name__ == '__main__':
     namepublisher = input('Введите Имя или номер автора: ') 
     get_shop(namepublisher)
-
-    __pucache__
